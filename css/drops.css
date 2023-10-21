@@ -1,0 +1,16 @@
+h1 {
+  color: #000000;
+  text-align: center;
+  font-size: 30px;
+}
+nav a {
+  color: #000000;
+  text-decoration: none;
+  background-color: #10899c;
+  padding: 5px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+body {
+  background-image: url(https://static.ankama.com/ankama/cms/images/276/2016/08/19/579182.jpg);
+}
