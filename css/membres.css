@@ -15,5 +15,5 @@ nav a {
 body {
   background-image: url("../images/fond.jpg");
   background-color: gray;
-  background-size: auto;
+  background-size: cover;
 }
