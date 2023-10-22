@@ -31,7 +31,4 @@ body {
   background-color: gray;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  display: block;
-  height: auto;
-  max-width: 100%;
 }
