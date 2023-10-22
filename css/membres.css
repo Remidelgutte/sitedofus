@@ -1,19 +1,34 @@
 h1 {
-  color: #000000;
   text-align: center;
-  font-size: 30px;
+  color: #ffffff;
+  font-size: 35px;
   font-style: italic;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin: -8px;
+}
+.nav-tittle-left {
+  float: left;
+  font-size: 25px;
+  margin-top: -25px;
+  margin-left: -5px;
+}
+.nav-tittle-right {
+  float: right;
+  font-size: 25px;
+  margin-top: -25px;
+  margin-right: -5px;
 }
 nav a {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
-  background-color: #10899c;
-  padding: 5px;
-  border-radius: 10px;
+  background-color: rgba(16, 137, 156, 0.7);
   font-weight: bold;
+  border-radius: 10px;
+  padding: 2px;
 }
 body {
   background-image: url("../images/fond.jpg");
   background-color: gray;
-  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
