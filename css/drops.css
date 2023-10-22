@@ -26,6 +26,12 @@ nav a {
   border-radius: 10px;
   padding: 2px;
 }
+
+iframe {
+  position: relative;
+  left: 1375px;
+  top: 533px;
+}
 body {
   background-image: url("../images/fond.jpg");
   background-color: gray;

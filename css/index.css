@@ -1,3 +1,7 @@
+html {
+  font-size: 10px;
+  -webkit-tap-highlight-color: transparent;
+}
 h1 {
   text-align: center;
   color: #ffffff;
@@ -25,6 +29,11 @@ nav a {
   font-weight: bold;
   border-radius: 10px;
   padding: 2px;
+}
+iframe {
+  position: relative;
+  left: 1375px;
+  top: 533px;
 }
 body {
   background-image: url("../images/fond.jpg");
