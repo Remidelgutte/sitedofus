@@ -64,10 +64,6 @@ h1 {
   padding-left: 0.15em;
   padding-right: 0.15em;
 }
-.discord {
-  position: fixed;
-  margin-top: 5em;
-}
 body {
   background-image: url("../images/fond.jpg");
   background-color: gray;
